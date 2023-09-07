@@ -1,0 +1,6 @@
+{
+    "Name": "White matter tract and peaks",
+    "BIDSVersion": "1.0.2",
+    "DatasetType": "raw",
+    "Authors": ["keke"]
+}
